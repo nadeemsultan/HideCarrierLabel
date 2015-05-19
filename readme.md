@@ -13,4 +13,5 @@ A small Xposed module for Lollipop that hides the carrier label on the lockscree
 ![](http://i.imgur.com/4WyIPHA.png?2)
 </center>
 ###Changelog
+* **1.1** : Updated for Android 5.1
 * **1.0** : Initial Release
